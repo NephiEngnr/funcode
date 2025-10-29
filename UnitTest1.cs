@@ -1,6 +1,6 @@
-﻿//assignments c6#1 and c6#2
+﻿// assignments c6#1 and c6#2
 
-//challenge 1: "The Variable Shop"
+// challenge 1: "The Variable Shop"
 int one = 1;
 uint two = 2;
 byte three = 3;
@@ -32,8 +32,27 @@ Console.WriteLine(@$"Hello! this program needs to have one of each type of varia
 ");
 
 
-//challenge 2: "The variable shop returns"
+// challenge 2: "The variable shop returns"
 // uh... i did that on the first one... i guess it's done!😊
+
+
+//     assignments c7#1, c7#2, and c7#3
+
+// challenge 1: "The Triangle Farmer"
+Console.Clear();
+Console.Write("enter the triangle's height : ");
+int Height = int.Parse(Console.ReadLine());
+Console.Write("enter the triangle's base : ");
+int Base = int.Parse(Console.ReadLine());
+
+Console.Write("the triangle's area is : " + (Base * Height) / (2));
+
+
+
+
+
+
+
 
 
 
