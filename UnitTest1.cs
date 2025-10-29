@@ -12,7 +12,7 @@ ulong eight = 8;
 float nine = 9;
 double ten = 10;
 decimal eleven = 11;
-string twelve = "12";
+bool twelve = true;
 Console.WriteLine(@$"Hello! this program needs to have one of each type of variable, totaling twelve variables.: 
 {one}
 {two}
@@ -25,6 +25,7 @@ Console.WriteLine(@$"Hello! this program needs to have one of each type of varia
 {nine}
 {ten}
 {eleven}
+12
 {twelve}
 ");
 
