@@ -13,7 +13,8 @@ float nine = 9;
 double ten = 10;
 decimal eleven = 11;
 bool twelve = true;
-Console.WriteLine(@$"Hello! this program needs to have one of each type of variable, totaling twelve variables.: 
+string thirteen = "13";
+Console.WriteLine(@$"Hello! this program needs to have one of each type of variable, totaling thirteen variables.: 
 {one}
 {two}
 {three}
@@ -26,6 +27,7 @@ Console.WriteLine(@$"Hello! this program needs to have one of each type of varia
 {ten}
 {eleven}
 12
+{thirteen}
 {twelve}
 ");
 
